@@ -11,14 +11,7 @@ In this post, I use Sentinel-2 satellite data to compare vegetation in Houston, 
 
 This isn't just an exercise in geospatial analysis. Understanding where greenness is lost or retained has serious implications for heat vulnerability, air quality, equitable infrastructure investment, and flood resilience. This is about visibility --- making it easier for urban policy, planning, and public debate to track how a city breathes.
 
-## About
 
-Place the code for this article in this repository.
-The original article export is saved as `article.md`.
-
-## Files
-
-Add your `.ipynb`, `.py`, `.yaml`, `.js`, `.ts`, or other project files here.
 
 ## Disclaimer
 
